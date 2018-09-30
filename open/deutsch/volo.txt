@@ -6,6 +6,7 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
   - ist es in der Luft echt einfacher als auf der Strasse?
   - Klar, 3Dim, aber auch mehr Sicherheitsabstand
   - Die Rolle von Autonomie?
+  -- Ich war mal mit 150 Gleitschirmen über einem Bergrücken. Das ist fast nicht mehr handlebar. Daher halte ich Volocopter für nicht massentauglich. Und wenn dann nur auf Luftstraßen, die im 3D viel präziser gefasst sein müssen als bei Flugzeugen. Wahrscheinlich also nur autonom/geführt möglich.
   - bzw. Fernsteuerung von zentraler Stelle
     "Air traffic management (inlcuding UTM) to coordinate autonomous 
      Volocopter fleets integration possible"
@@ -18,6 +19,7 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
 * Performance 27km bei 70 kmh - klingt jetzt nicht soooo viel. 
   - Use Case?
   - Changing batts vs charging batts?
+  - "Wirkungsgrad" (bspw. Energie/km und/oder Energie/km/h)im Vergleich zum Groß- und Kleinflugzeug, im Vergleich zum PKW.
 
 * Warum kein Flächenflieger oder etwas Klapp-flügeliges?
   - Bspw. Lilium
